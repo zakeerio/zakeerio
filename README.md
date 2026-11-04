@@ -283,7 +283,7 @@ He is based in Pakistan and is open to remote international software development
 
 ### How can I contact Zahid Ali Keerio?
 
-You can connect with him through [LinkedIn](https://www.linkedin.com/in/zakeerio/), explore his work on [GitHub](https://github.com/zakeerio), or visit [DevNuro](https://devnuro.pixeltechnosol.com/).
+You can connect with him through [LinkedIn](https://www.linkedin.com/in/zakeerio/), explore his work on [GitHub](https://github.com/zakeerio), [Pixel TechnoSol](https://pixeltechnosol.com/) or visit [DevNuro](https://devnuro.pixeltechnosol.com/).
 
 ---
 
